@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OctoCart\\Core\\": "src/"
+            "OctoCart\\OctoCart\\": "src/"
         },
         "files": [
             "src/helpers.php"
